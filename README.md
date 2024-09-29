@@ -1,7 +1,7 @@
 BITCRYP: Your Bitcoin Money Success
 
 Overview
-CYPO is a web-based application designed for managing Bitcoin transactions and cryptocurrency wallets. Built with HTML, CSS, and JavaScript, CYPO offers a clean and responsive user interface that enhances the user experience in managing their cryptocurrency assets.
+BITCRYP is a web-based application designed for managing Bitcoin transactions and cryptocurrency wallets. Built with HTML, CSS, and JavaScript, BITCRYP offers a clean and responsive user interface that enhances the user experience in managing their cryptocurrency assets.
 
 Technologies Used
 
